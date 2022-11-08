@@ -1,4 +1,2 @@
 # Fliperama_SNES
-
-##Sites with online SNES games :D
-Link:
+Sites with online SNES games | Link:
